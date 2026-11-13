@@ -6,7 +6,7 @@ export default async function handler(req) {
   const allowOrigins = [
     "http://127.0.0.1:5500",
     "http://localhost",
-    "https://tizzy‑090131.github.io"
+    "https://tizzy‑090131.github.io",
     "https://tizzy‑090131.github.io/snow‑scene"
   ];
 
